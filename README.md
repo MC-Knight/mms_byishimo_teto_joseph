@@ -18,7 +18,7 @@ Loan Review and status managment
 
 ```
 pip install virtualenv
-virtualenve {virtualenv_name}
+virtualenv {virtualenv_name}
 Linux
 {virtualenv_name}\bin\activate
 Windows
